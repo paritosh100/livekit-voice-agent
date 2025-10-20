@@ -1,0 +1,38 @@
+# Environment variables
+.env
+*.env
+
+# Python virtual environments
+venv/
+ai/
+env/
+.venv/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Local data, indices, and embeddings
+rag/
+*.index
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary or generated artifacts
+*.tmp
+*.bak
+*.old
+*.log
