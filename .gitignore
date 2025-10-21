@@ -19,7 +19,7 @@ __pycache__/
 *.swp
 
 # Local data, indices, and embeddings
-rag/
+
 *.index
 *.pkl
 
